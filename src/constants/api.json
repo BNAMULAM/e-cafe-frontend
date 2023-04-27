@@ -1,0 +1,21 @@
+{
+    "login":"http://localhost:9000/Login/login/",
+    "register":"http://localhost:9000/Login/register/",
+    "addItem":"http://localhost:9000/Manager/addItem/",
+    "getItems":"http://localhost:9000/Manager/getAllItems/",
+    "deleteItems":"http://localhost:9000/Manager/deleteItem/",
+    "updateItem":"http://localhost:9000/Manager/updateItem/",
+    "addCombo":"http://localhost:9000/Manager/addCombo/",
+    "getCombos":"http://localhost:9000/Manager/getAllCombo/",
+    "deleteCombos":"http://localhost:9000/Manager/deleteCombo/",
+    "updateCombo":"http://localhost:9000/Manager/updateCombo/",
+    "addOffer":"http://localhost:9000/Manager/addOffer/",
+    "getOffer":"http://localhost:9000/Manager/getAllOffer/",
+    "deleteOffer":"http://localhost:9000/Manager/deleteOffer/",
+    "updateOffer":"http://localhost:9000/Manager/updateOffer/",
+    "addOrder":"http://localhost:9000/Customer/placeOrder/",
+    "getOrder":"http://localhost:9000/Customer/getAllOrders/",
+    "deleteOrder":"http://localhost:9000/Customer/cancelOrder/",
+    "addPayment":"http://localhost:9000/Payment/payBill/",
+    "getPayment":"http://localhost:9000/Payment/getPayment/"
+}
